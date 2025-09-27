@@ -1,7 +1,7 @@
 /******************************************************
 *Title:Tcp Server of Rcv.Log
 *Version:1.0
-*Date:March.17,2015
+*Date:March.17
 *@Home,Origin
 ******************************************************/  
 #include "stdafx.h"

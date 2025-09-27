@@ -251,9 +251,9 @@ LED Control:
 
 ## 📝 Changelog
 
-- **v1.0** (2015-03): Initial version
-- **v1.4** (2015-05): Added dedicated temperature data service
-- **v1.0** (2015-05): STM32 device end completed
+- **v1.0**: Initial version
+- **v1.4**: Added dedicated temperature data service
+- **v1.0**: STM32 device end completed
 
 ## 🤝 Contributing
 
@@ -263,11 +263,6 @@ Welcome to submit Issues and Pull Requests to improve this project!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-- **Project Demo Video**: [YouTube Link](https://youtu.be/n4Au37AL_gw)
-- **Author**: Binhua Huang
-- **Email**: bhua.huang@gmail.com
 
 ---
 

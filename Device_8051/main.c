@@ -2,7 +2,7 @@
 *	Title:STC12C Driver,TFT Screen,ESP8266 WiFi Module
 *	Version:Original Ver.
 *	Release Note:
-*	Date:Mar~May,2015@Home,Origin.
+*	Date:Mar~May@Home,Origin.
 *******************************************************/
 #include <STC12C5A60S2.H>
 #include <intrins.h>

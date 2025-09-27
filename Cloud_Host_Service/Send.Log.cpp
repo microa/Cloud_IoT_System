@@ -1,7 +1,7 @@
 /******************************************************
 *Title:Tcp Server of Send.Log
 *Version:1.4
-*Date:March.27,2015
+*Date:March.27
 *@Home,Origin
 ******************************************************/ 
 #include "stdafx.h"

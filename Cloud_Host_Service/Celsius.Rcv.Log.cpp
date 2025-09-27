@@ -1,7 +1,7 @@
 /******************************************************
 *Title:Tcp Server of Celsius.Rcv.Log
 *Version:1.0
-*Date:May.20,2015
+*Date:May.20
 *@Home,Origin
 ******************************************************/   
 #include "stdafx.h"
@@ -84,7 +84,7 @@ int Init()
         return Error;
     }
 	else cout<<"Bind Success!"<<endl;
-	//¿ªÊ¼¼àÌý 
+	//ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ 
     retVal = listen(SvrSock, 1);
     if(SOCKET_ERROR == retVal)
     {
